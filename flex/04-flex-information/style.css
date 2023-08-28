@@ -20,6 +20,11 @@ img {
   display: flex;
   gap: 30px;
   font-size: 15px;
+  justify-content: center;
+}
+
+.info{
+  max-width: 200px;
 }
 
 /* do not edit this footer */
